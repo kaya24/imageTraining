@@ -27,9 +27,9 @@ int main(int argc, const char * argv[]) {
     //Read_img();
     //test_camera();
     //detect_feature_func();
-    color_extract_func();
+    //color_extract_func();
     //colorExtractorRGB();
-    //colorExtractorHSV();
+    colorExtractorHSV();
     
     return 0;
 }
